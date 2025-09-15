@@ -80,13 +80,13 @@ We do not share your personal information with third parties.<!-- If we add opti
 
 We use reasonable technical and organizational measures appropriate to the risk. No method of transmission or storage is perfectly secure, but we aim to minimize the amount of personal information we process by keeping data on‑device.
 
-## Children’s Privacy
+<!--## Children’s Privacy
 
 Peak Form is not directed to children under 13. If you are a parent or guardian and believe a child provided us information, contact us so we can delete it.
 
 ## International Users
 
-We do not operate servers for this app by default. If we later introduce cloud features, your information may be processed in the country where our processor operates. We will only transfer data in compliance with applicable law.
+We do not operate servers for this app by default. If we later introduce cloud features, your information may be processed in the country where our processor operates. We will only transfer data in compliance with applicable law.-->
 
 ## Changes to This Policy
 
