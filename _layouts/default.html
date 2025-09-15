@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <header class="site-header">{% include nav.html %}</header>
+    <main class="container">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <small>© {{ site.time | date: "%Y" }} Peak Form</small>
+    </footer>
+  </body>
+</html>
