@@ -1,0 +1,11 @@
+title: Peak Form
+description: Minimal workout app
+url: ""  # set to your custom domain later, e.g., https://peakformapps.github.io
+baseurl: "/peakform-website"  # set to repo name or "" if using a user/org site repo
+markdown: kramdown
+permalink: pretty
+theme: null
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

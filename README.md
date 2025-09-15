@@ -1,2 +1,2 @@
-# peakform-website
-Website for Peak Form App.
+# Peak Form Website (GitHub Pages + Jekyll)
+Minimal site for app pages and privacy policy.
