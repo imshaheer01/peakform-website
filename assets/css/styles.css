@@ -1,4 +1,4 @@
-:root{ --bg:#0b0f14; --card:#131a22; --text:#e7ecf1; --muted:#98a2ad; --accent:#6aa6ff; }
+:root{ --bg:#0b0f14; --card:#131a22; --text:#e7ecf1; --muted:#98a2ad; --accent:#ff80a8; }
 *{ box-sizing:border-box; }
 body{ margin:0; font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Arial; background:var(--bg); color:var(--text);}
 .container{ max-width:960px; margin:0 auto; padding:32px 20px; }
