@@ -96,7 +96,7 @@ We may update this policy to reflect changes in the app or legal requirements. W
 
 If you have questions about this policy<!-- or wish to request deletion of any cloud‑stored data (if applicable)-->, contact:
 
-**Email:** imshaheer01@gmail.com  
+**Email:** peakformcontact@gmail.com  
 **Developer:** Peak Form
 
 ---
@@ -106,7 +106,7 @@ If you have questions about this policy<!-- or wish to request deletion of any c
 If the app remains on‑device only and you do not use analytics or cloud features:
 - **Data collection:** No data collected
 - **Data sharing:** No data shared with third parties
-- **Data encryption:** Data is encrypted in transit (N/A for purely on‑device); local storage is device‑level
+- **Data encryption:** <!--Data is encrypted in transit (N/A for purely on‑device); -->local storage is device‑level
 - **Data deletion:** Users can delete data by clearing it in Settings or uninstalling the app
 
 <!--If you later add crash reporting, analytics, or cloud backup, you must revise the above and disclose the relevant categories in Play Console.-->
