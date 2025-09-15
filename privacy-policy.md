@@ -10,7 +10,7 @@ description: Privacy Policy for Peak Form
 
 Peak Form (“we,” “our,” or “us”) is a minimal workout app. This policy explains what information the app processes and how it is handled.
 
-> **Short version:** The app is designed to work **on your device**. We do **not** collect, store, or sell your personal information on our servers. If you later enable optional cloud features or analytics, this page will be updated and you will see an in‑app disclosure.
+> **Short version:** The app is designed to work **on your device**. We do **not** collect, store, or sell your personal information on our servers.<!-- If you later enable optional cloud features or analytics, this page will be updated and you will see an in‑app disclosure.-->
 
 ---
 
